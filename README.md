@@ -68,8 +68,8 @@ This project demonstrates a simple implementation of JWT (JSON Web Token) for au
 
 3. **Setup Environment Variables**:
 
--   Create a `.env` file in the root directory of your project.
--   Add the required environment variable `JWT_SECRET`
+    - Create a `.env` file in the root directory of your project.
+    - Add the required environment variable `JWT_SECRET`
 
 4. **Run Application**:
 
@@ -79,7 +79,7 @@ This project demonstrates a simple implementation of JWT (JSON Web Token) for au
 
 5. **Access the API**
 
--   Use a tool like Postman or cURL to interact with the `/api/v1/login/register` and `/api/v1/dashboard` routes.
+    - Use a tool like Postman or cURL to interact with the `/api/v1/login/register` and `/api/v1/dashboard` routes.
 
 ## Conclusion
 
